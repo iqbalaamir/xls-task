@@ -40,7 +40,7 @@ To run the application, use the following command:
 npm start
 ```
 
-The API server will start and listen on the specified port (default: 3000). You can access it at `http://localhost:3000` in your web browser or through API clients like Postman.
+The API server will start and listen on the specified port (default: 5000). You can access it at `http://localhost:5000` in your web browser or through API clients like Postman.
 
 ## API Documentation
 
