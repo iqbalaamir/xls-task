@@ -44,7 +44,7 @@ The API server will start and listen on the specified port (default: 5000). You 
 
 ## API Documentation
 
-The API documentation is available at `http://localhost:3000/api-docs` when the application is running. It provides detailed information about the available endpoints, request/response formats, and how to use them. You can explore and test the API endpoints directly from the documentation.
+The API documentation is available at `http://localhost:5000/api-docs` when the application is running. It provides detailed information about the available endpoints, request/response formats, and how to use them. You can explore and test the API endpoints directly from the documentation.
 
 ## Uploading Data
 
